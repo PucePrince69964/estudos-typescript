@@ -49,7 +49,7 @@ typescript/
 - 3. Abra o repositório:
 ```code .```
 - 4. Instale as depedências definidas pelo `package.json`:
-````npm install```
+```npm install```
 - 5. Verifique a instalação do TypeScript:
 ```npx tsc --version```
 Se uma versão for exibida no terminal, o TypeScript está instalado e pronto para ser utilizado.
